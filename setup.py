@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name = "jewer.py",
+    name = "Gasumirasu.py",
     version = "0.1",
-    py_modules = ['jewer'],
-    url = "https://github.com/indraxz/jewer.git",
-    author = "indraxz",
+    py_modules = ['Gasumirasu'],
+    url = "https://github.com/gasumirasu/gasumirasu.git",
+    author = "gasumirasu",
     install_requires = ["pyngrok"]
 )
